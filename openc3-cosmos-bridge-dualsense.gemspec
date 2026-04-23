@@ -14,9 +14,9 @@ spec = Gem::Specification.new do |s|
   s.description = <<-EOF
     Adds an interface to a PS5 DualSense Controller to COSMOS for use by a bridge
   EOF
-  s.licenses = ['AGPL-3.0-only', 'Nonstandard']
-  s.authors = ['Ryan Melton']
-  s.email = ['ryan@openc3.com']
+  s.licenses = ['MIT']
+  s.authors = ['OpenC3, Inc.']
+  s.email = ['plugins@openc3.com']
   s.homepage = 'https://github.com/OpenC3/openc3'
   s.platform = Gem::Platform::RUBY
 
